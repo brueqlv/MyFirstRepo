@@ -1,0 +1,2 @@
+# MyFirstRepo
+Pirmā kodu krātuve
