@@ -1,4 +1,4 @@
 # MyFirstRepo
 Pirmā kodu krātuve
 
-Rediģēts
+Rediģēts//
